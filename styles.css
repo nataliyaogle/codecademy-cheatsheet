@@ -1,0 +1,55 @@
+body {
+    max-width: 85%;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: rosybrown;
+    text-align: center;
+    font-family: 'Ubuntu Mono', sans-serif;
+    border: 2px solid salmon;
+    padding: 1%;
+    margin-left: 12.5%;
+    background-color: peachpuff;
+}
+
+table {
+    border: solid salmon 2px;
+    border-collapse: collapse;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12.5%;
+  }
+  
+thead {
+    background-color:peachpuff;
+    border: solid 1px;
+    color:rosybrown;
+    font-family: 'Ubuntu Mono', sans-serif;
+    }
+
+th {
+    font-size: 1.5em;
+}
+
+tr {
+    border-top: 1px solid salmon;
+  }
+
+td {
+    text-align: center;
+    border-right: 1px dotted salmon;
+    font-family: 'Share Tech Mono', sans-serif;
+    padding: 1%;
+}
+
+#property {
+    background-color: bisque;
+    border-right: 2px dotted salmon;
+    text-align: center;
+}
+
+#description {
+    text-align: left;
+}
